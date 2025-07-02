@@ -1,0 +1,1 @@
+print("codigos del ejercio 01")
